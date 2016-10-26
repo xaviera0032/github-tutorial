@@ -20,7 +20,7 @@ Now that you have a better view of the difference between Git and Github, it is 
 
 2. Sign up by adding a username and your password(in terms of hstat students, your email must be your first name, the first letter of your last name, the last 4 numbers of your student id, and finish it with @hstat.org. An example is Johnt9906@hstat.org).
 
-3. Now that you have an account, go to your email account to verify it with github.
+3. Now that you have an account, go to your email account to verify it with github. 
 
 4. Now to connect github and c9, go to github.com and into settings.
 
@@ -31,17 +31,21 @@ Your done signing up, whats next? How about we start making a repository and pus
 
 A repository is a directory (basically a folder) but initilized into git. To make a repository you...
 
-1. Make a folder in the terminal by typing mkdir "name of folder".
+1. Make a folder in the terminal by typing `mkdir "name of folder".
 
 2. A common mistake people make is making a folder without entering the folder. To enter the folder type cd "name of folder". To make sure that you are in the folder, it should say ~/workspace/"name of folder" (master).
 
-3. Type git init to turn the directory into a repository.
+3. Type `git init` to turn the directory into a repository.  
 
-4. Type git add to add the current file to prepare for commiting.
+4. Make a file using `touch.txt`. 
 
-5. Type git commit -m "the message of the snapshot" to make a snapshot to the projects history.
+5. Type/ edit in your file.  
 
-6. Type git push -u add origin to push your repository into your cloud.
+6. Type `git add` to add the current file to prepare for commiting.  
+
+7. Type `git commit -m "the message of the snapshot"` to make a snapshot to the projects history.  
+
+8. Type `git push -u add origin to push your repository` into your cloud.  
 
 
 ---
